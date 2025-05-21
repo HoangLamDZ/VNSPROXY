@@ -20,7 +20,7 @@ Headless Browser Flood (Dự kiến)
 🌍 Proxy xoay vòng & Giả mạo User-Agent
 🔐 Botnets & OSINT Scraping (Sắp ra mắt)
 📦 Yêu cầu
-Python 3.8+
+Python 3.11+
 requests, cloudscraper, colorama, aiohttp, beautifulsoup4, v.v.
 Khuyến nghị dùng Linux hoặc Termux (Windows hỗ trợ một phần)
 bash
